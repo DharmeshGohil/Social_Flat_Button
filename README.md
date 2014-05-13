@@ -54,18 +54,7 @@ Social_Flat_Button
 				<h5>Code licensed under<a href="https://github.com/dharmeshgohil" target="_blank">@DharmeshGohil</a></h5>
 			</div>
 		</footer>
-		<script type="text/javascript">
-			(function(jQuery){
-				
-			  jQuery( document ).ready( function() {
-					
-			    prettyPrint();
-					
-			  } );
-			 
-			}(jQuery))
-				
-		</script>
+		
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
