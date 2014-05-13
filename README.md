@@ -1,3 +1,6 @@
+Social_Flat_Button
+<hr>
+<h2>Example usage</h2>
 <h4>Using this code for Small Button</h4>
 <PRE class="prettyprint linenums lang-html" align="left">
 &lt;button class=&quot;btn google-flat&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa-2x&quot;&gt;&lt;/i&gt;&lt;/button&gt;
