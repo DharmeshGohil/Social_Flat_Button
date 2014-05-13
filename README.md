@@ -20,25 +20,25 @@
 <div>
 <h2>Installation</h2>
 <ol>
-					<p>Full instructions can be found here, but basically:</p>
-					<li>Navigate to the Github project.</li>
-					<li>Use buttons!</li>
-				</ol>
-			</div>
-			<hr>
-			<div>
-				<h2>Requirements</h2>
-				<ol class="dd">
-					<li><a href="http://getbootstrap.com/" target="_blank">Bootstrap 3.v or newer</a></li>
-					<li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome 4.0.3 or newer</a></li>
-				</ol>
-			</div>
-		</div>
-		<!-- container end -->
-		<footer>
-			<div align="center">
-				<h5>made by <a href="https://github.com/dharmeshgohil" target="_blank">@DharmeshGohil</a></h5>
-				<h5>Code licensed under<a href="https://github.com/dharmeshgohil" target="_blank">@DharmeshGohil</a></h5>
-			</div>
-		</footer>
+<p>Full instructions can be found here, but basically:</p>
+<li>Navigate to the Github project.</li>
+<li>Use buttons!</li>
+</ol>
+</div>
+<hr>
+<div>
+<h2>Requirements</h2>
+<ol class="dd">
+<li><a href="http://getbootstrap.com/" target="_blank">Bootstrap 3.v or newer</a></li>
+<li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome 4.0.3 or newer</a></li>
+</ol>
+</div>
+</div>
+		
+<footer>
+<div align="center">
+<h5>made by <a href="https://github.com/dharmeshgohil" target="_blank">@DharmeshGohil</a></h5>
+<h5>Code licensed under<a href="https://github.com/dharmeshgohil" target="_blank">@DharmeshGohil</a></h5>
+</div>
+</footer>
 		
