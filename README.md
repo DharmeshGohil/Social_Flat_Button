@@ -1,62 +1,7 @@
 Social_Flat_Button
 ==================
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Magic button 0.1v</title>
 
-		<!-- font-awesome -->
-		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-
-		<!-- Bootstrap -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-
-		<!--social-flat-button  -->
-		<link href="css/social-flat-button.css" rel="stylesheet">
-
-		<!--prettify  -->
-		<link href="http://google-code-prettify.googlecode.com/svn/trunk/src/prettify.css" rel="stylesheet">
-		<style type="text/css">
-			body{
-				background: #573E7E;
-			}
-			h1,h2,h3,h4,h5 {
-				color: #fff;
-			}
-			.jumbotron{
-				background: #bdc3c7;
-			}
-			.jumbotron>p{
-				color: black;
-			}
-			a{
-				color: #2AE5E5;
-			}
-			a:hover{
-				color: #2AE5E5;
-				text-decoration: none;
-			}
-			ul>li{
-				display: inline-block;
-				padding:10px;
-				color: #fff;
-			}
-			p{
-				color: #fff;
-			}
-			ol>li{
-				color: #fff;
-			}
-			.dd{
-				padding-bottom: 10px;
-			}
-		</style>
-	</head>
-	<body>
 		<div class="jumbotron" align="center">
 			<h1>Social Flat Button <small> in CSS</small></h1>
 			<p>Flat, small and large size social media buttons using <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>. Oh, and they're free too!</p>
