@@ -1,10 +1,5 @@
-				
-			<h2>Example usage</h2>
-				<h4>Using this code for Small Button</h4>
-				<div class="dd">
-					<button class="btn google-flat"><i class="fa fa-google-plus fa-2x"></i></button>
-				</div>
-				<PRE class="prettyprint linenums lang-html" align="left">
+<h4>Using this code for Small Button</h4>
+<PRE class="prettyprint linenums lang-html" align="left">
 &lt;button class=&quot;btn google-flat&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa-2x&quot;&gt;&lt;/i&gt;&lt;/button&gt;
 		</PRE>
 		<h4>Using this code for large Button</h4>
