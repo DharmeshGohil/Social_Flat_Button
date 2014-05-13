@@ -11,18 +11,15 @@
 <PRE class="prettyprint linenums lang-html" align="left">
 &lt;button class=&quot;btn facebook-flat large-facebook&quot;&gt;&lt;i class=&quot;fa fa-facebook fa-2x&quot;&gt;&lt;/i&gt;&lt;/button&gt;
 		</PRE>
-		
-			<hr>
-			<div>
-				<h2>Quick installation</h2>
-				<ol>
-					<li>Download<a href="css/social-flat-button.css" target="_blank"> social-Flat-button.css</a> and include in your project. Done!</li>
-				</ol>
-			</div>
-			<hr>
-			<div>
-				<h2>Installation</h2>
-				<ol>
+<h2>Quick installation</h2>
+<ol>
+<li>Download<a href="css/social-flat-button.css" target="_blank"> social-Flat-button.css</a> and include in your project. Done!</li>
+</ol>
+</div>
+<hr>
+<div>
+<h2>Installation</h2>
+<ol>
 					<p>Full instructions can be found here, but basically:</p>
 					<li>Navigate to the Github project.</li>
 					<li>Use buttons!</li>
