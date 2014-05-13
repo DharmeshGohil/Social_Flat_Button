@@ -1,4 +1,7 @@
 <h1 align="center">Social_Flat_Button</h1>
+<h4>Demo
+<a href="http://dharmeshgohil.github.io/Social_Flat_Button/" target="_blank"></a>
+</h4>
 <h3>Example usage</h3>
 <h4>Using this code for Small Button</h4>
 <PRE class="prettyprint linenums lang-html" align="left">
