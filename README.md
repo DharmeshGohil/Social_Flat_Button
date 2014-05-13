@@ -2,77 +2,11 @@ Social_Flat_Button
 ==================
 
 
-		<div class="jumbotron" align="center">
-			<h1>Social Flat Button <small> in CSS</small></h1>
-			<p>Flat, small and large size social media buttons using <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>. Oh, and they're free too!</p>
-			<p>Social Flat Button for Twitter Bootstrap</p>
-			<p>
-				<ul>
-					<li>
-						<a href="social-flat-button.zip" class="btn btn-primary btn-lg" role="button" target="_blank">Download Demo</a>
-					</li>
-					<li>
-						<a href="css/social-flat-button.css" class="btn btn-primary btn-lg" role="button" target="_blank">Download CSS</a>
-					</li>
-				</ul>
-			</p>
-		</div><!-- jumbotron end -->
-		<div class="container">
-			<div class="row" align="center">
-				<h2>Flat Social Button Small</h2>
-				<ul>
-					<li><button class="btn facebook-flat"><i class="fa fa-facebook fa-2x"></i></button>
-					</li>
-					<li><button class="btn twitter-flat"><i class="fa fa-twitter fa-2x"></i></button>
-					</li>
-					<li><button class="btn google-flat"><i class="fa fa-google-plus fa-2x"></i></button>
-					</li>
-					<li><button class="btn linkedin-flat"><i class="fa fa-linkedin fa-2x"></i></button>
-					</li>
-					<li><button class="btn github-flat"><i class="fa fa-github-alt  fa-2x"></i></button>
-					</li>
-					<li><button class="btn pinterest-flat"><i class="fa fa-pinterest fa-2x"></i></button>
-					</li>
-					<li><button class="btn dropbox-flat"><i class="fa fa-dropbox  fa-2x"></i></button>
-					</li>
-					<li><button class="btn flickr-flat"><i class="fa fa-flickr fa-2x"></i></button>
-					</li>
-					<li><button class="btn youtube-flat"><i class="fa fa-youtube fa-2x"></i></button>
-					</li>
-				</ul>
-			</div>
-			<!-- flat icon row end -->
-			<div class="row" align="center">
-				<h2>Flat Social Button Large</h2>
-				<ul>
-					<li><button class="btn facebook-flat large-facebook"><i class="fa fa-facebook fa-2x"></i></button>
-					</li>
-					<li><button class="btn twitter-flat large"><i class="fa fa-twitter fa-2x"></i></button>
-					</li>
-					<li><button class="btn google-flat large"><i class="fa fa-google-plus fa-2x"></i></button>
-					</li>
-					<li><button class="btn linkedin-flat large"><i class="fa fa-linkedin fa-2x"></i></button>
-					</li>
-					<li><button class="btn github-flat large"><i class="fa fa-github-alt  fa-2x"></i></button>
-					</li>
-					<li><button class="btn pinterest-flat large"><i class="fa fa-pinterest fa-2x"></i></button>
-					</li>
-					<li><button class="btn dropbox-flat large"><i class="fa fa-dropbox  fa-2x"></i></button>
-					</li>
-					<li><button class="btn flickr-flat large"><i class="fa fa-flickr fa-2x"></i></button>
-					</li>
-					<li><button class="btn youtube-flat large"><i class="fa fa-youtube fa-2x"></i></button>
-					</li>
-				</ul>
-			</div>
-			<!-- flat icon row end -->
-			<hr>
-			<div>
+	
+		
 				<h2>Example usage</h2>
 				<h4>Using this code for Small Button</h4>
-				<div class="dd">
-					<button class="btn google-flat"><i class="fa fa-google-plus fa-2x"></i></button>
-				</div>
+				
 				<PRE class="prettyprint linenums lang-html" align="left">
 &lt;button class=&quot;btn google-flat&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa-2x&quot;&gt;&lt;/i&gt;&lt;/button&gt;
 		</PRE>
