@@ -4,8 +4,8 @@ Social_Flat_Button
 
 	
 		
-				<h2>Example usage</h2>
-				<h4>Using this code for Small Button</h4>
+<h2>Example usage</h2>
+<h4>Using this code for Small Button</h4>
 				
 				<PRE class="prettyprint linenums lang-html" align="left">
 &lt;button class=&quot;btn google-flat&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa-2x&quot;&gt;&lt;/i&gt;&lt;/button&gt;
@@ -54,14 +54,4 @@ Social_Flat_Button
 				<h5>Code licensed under<a href="https://github.com/dharmeshgohil" target="_blank">@DharmeshGohil</a></h5>
 			</div>
 		</footer>
-		
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
-		<!-- Include all compiled plugins (below), or include individual files as needed -->
-		<script src="js/bootstrap.min.js"></script>
-
-		<!-- prettify (for html codeing style) -->
-		<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
-	</body>
-</html>
+	
